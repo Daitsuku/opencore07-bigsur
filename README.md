@@ -15,4 +15,4 @@ __What's should you know?__
   - This folder using SSDT-SHUTDOWN FIX (guide by dortania here : https://dortania.github.io/OpenCore-Post-Install/usb/misc/shutdown.html)
     - if you wish for dsdt shutdown patch fix, please remove "FixShutdown-USB-SSDT" and "_PST to ZPST" as well.
 
-  - # __i'm not responsible for brick or else that would happened to your laptop, use my EFI at your own risk.__
+  - # i'm not responsible for brick or else that would happened to your laptop, use my EFI at your own risk.
