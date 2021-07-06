@@ -14,5 +14,7 @@ __What's should you know?__
     - *see compatible listing : https://openintelwireless.github.io/itlwm/Compat.html*
   - This folder using SSDT-SHUTDOWN FIX (guide by dortania here : https://dortania.github.io/OpenCore-Post-Install/usb/misc/shutdown.html)
     - if you wish for dsdt shutdown patch fix, please remove "FixShutdown-USB-SSDT" and "_PST to ZPST" as well.
+  - This folder is for laptop that's has no HDMI
+
 
   - # i'm not responsible for brick or else that would happened to your laptop, use my EFI at your own risk.
