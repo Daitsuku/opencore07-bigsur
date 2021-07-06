@@ -6,7 +6,7 @@ OpenCore Folder For Dell Haswell Laptop
   - *SMBIOS* (Use MacBookAir6,2 . generate one for yourself)
   - DSDT
 
-**__Don't forget to do snapshot after you put SSDT-PLUG into your EFI__**
+***__Don't forget to do snapshot after you put SSDT-PLUG into your EFI__**
 
 __What's should you know?__
   - This folder is for laptop using RTL8100/8111
